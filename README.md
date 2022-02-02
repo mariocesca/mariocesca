@@ -2,7 +2,7 @@
 - 👀 I’m interested in *health analytics*
 - 🌱 I’m currently learning R, Python, DAX, M
 - 💞️ I’m looking to collaborate on health analytics projects
-- 📫 How to reach me? You've already found!
+- 📫 How to reach me? Search for mariocesca...
 
 <!---
 mariocesca/mariocesca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
